@@ -1,0 +1,7 @@
+#Tue Sep 27 20:18:10 CST 2016
+base.0=F\:\\studio_Code\\Test92\\listTest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_de7c4ecac439dce9163a2d756d89927c58dcdeef
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\studio_Code\\Test92\\listTest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_45913ab0d874e4ef3ce37d825c9c132c1e2a7f8f\\classes.dex
+base.1=F\:\\studio_Code\\Test92\\listTest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_45913ab0d874e4ef3ce37d825c9c132c1e2a7f8f
+file.0=F\:\\studio_Code\\Test92\\listTest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_de7c4ecac439dce9163a2d756d89927c58dcdeef\\classes.dex
